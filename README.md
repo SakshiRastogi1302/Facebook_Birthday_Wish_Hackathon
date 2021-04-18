@@ -56,7 +56,7 @@ $ node birthday_cli.js Help
 ```sh
 $ node birthday_cli.js View_Birthday_List
 ```
-### To wish all = friends whose birthday either fall today or were the recent past 
+### To wish all friends whose birthday either fall today or were the recent past 
 
 ```sh
 $ node birthday_cli.js Wish_All
